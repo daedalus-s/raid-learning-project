@@ -1,2 +1,2 @@
 # raid-learning-project
-Prep for RAID concepts
+Comprehensive RAID administration learning project demonstrating storage management skills for enterprise environments
