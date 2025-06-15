@@ -26,7 +26,7 @@ This project showcases practical RAID expertise through:
 # On Windows: Use WSL2 or Virtual Machine
 
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/raid-learning-project.git
+git clone https://github.com/daedalus-s/raid-learning-project.git
 cd raid-learning-project
 
 # Run initial setup (Linux)
